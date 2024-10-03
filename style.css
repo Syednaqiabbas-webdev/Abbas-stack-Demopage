@@ -5,7 +5,6 @@
 }
 .body{ 
    display: flex;
-   position: fixed;
 margin: 100%;
    width: 100%;
 }
@@ -28,8 +27,7 @@ display: flex ;
 padding: 8px;
 width: 100%;
 background-color: hsl(209, 44%, 14%);
-position: fixed;
-padding-left: 30px;
+padding-left: 40px;
 }
 .images{
     font-size: 50px;
@@ -39,7 +37,7 @@ padding-left: 30px;
 }
 .underlist{
     float: right;
-    padding-left: 560px;
+    padding-left: 210px;
 
 }
 .lin{
